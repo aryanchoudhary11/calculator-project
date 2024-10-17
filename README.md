@@ -1,4 +1,4 @@
-Languages used :- HTML, CSS, and JavaScript
+Languages used :- HTML, CSS, and JavaScript without using function.
 
 Used only basics
 
